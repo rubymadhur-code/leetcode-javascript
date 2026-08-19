@@ -18,4 +18,4 @@ function findStartChar(words) {
   return answer;
 }
 
-console.log(findStartChar(words));
+console.log(findStartChar(words)); 
